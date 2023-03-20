@@ -3,4 +3,8 @@ const raintgs = document.getElementsByName("rate");
 const feedbackCell = document.getElementById("feedback");
 const textReviewCopy = document.getElementById("textReviewCopy");
 
-alert("Funciona");
+window.onload = function () {
+
+  alert("Funciona");
+
+};
